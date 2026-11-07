@@ -18,4 +18,6 @@ How to install: <br>
 OR, <br>
 -Use a Mod Loader like Cogfly or Gale. <br>
 
-Note: Citadel Health Plus is NOT a real organization and any resemblance to a real organization/institute is purely coincidental. <br>
+Notes: <br>
+1. Citadel Health Plus is NOT a real organization and any resemblance to a real organization/institute is purely coincidental. <br>
+2. The github release and thunderstore page now have slightly different zip files due to naminf issues.
